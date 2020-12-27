@@ -11,4 +11,11 @@
     - Mostrar todas las keys existentes (getAll)
     - Eliminar (delete)
 4. Linked List
-    - 
+    - Simple
+        - Agregar al final
+        - Agregar al inicio
+        - Agregar por posición
+        - Eliminar (primero, último e intermedio)
+    - Doble
+        - Agregar al final
+        
