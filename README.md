@@ -10,7 +10,7 @@
     - Buscar (get)
     - Mostrar todas las keys existentes (getAll)
     - Eliminar (delete)
-4. Linked List
+4. Listas (Linked List)
     - Simple
         - Agregar al final
         - Agregar al inicio
@@ -18,4 +18,9 @@
         - Eliminar (primero, último e intermedio)
     - Doble
         - Agregar al final
+5. Pilas (Stacks)
+    - Apilar
+    - Desapilar
+    - Mostrar el último agregado
+    - Mostrar el primer agregado
         
