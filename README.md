@@ -30,3 +30,6 @@
 7. Árboles
     - Insertar datos
     - Buscar Nodo por valor
+8. Grafos
+    - Representación
+    - Insertar y Conectar (Adjacency List con Objeto)
