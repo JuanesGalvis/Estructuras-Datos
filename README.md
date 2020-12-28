@@ -23,4 +23,7 @@
     - Desapilar
     - Mostrar el último agregado
     - Mostrar el primer agregado
-        
+6. Colas (Queue)
+    - Agregar al final
+    - Remover el primero
+    - Mostrar el primero
