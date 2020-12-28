@@ -27,3 +27,6 @@
     - Agregar al final
     - Remover el primero
     - Mostrar el primero
+7. Árboles
+    - Insertar datos
+    - Buscar Nodo por valor
